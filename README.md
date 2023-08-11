@@ -16,6 +16,8 @@ Gjør oppgavene
 
 ## Funksjonslære
 
+Oppgaver finnes her: https://api.ndla.no/files/resources/gdxqOX6JrLyMtl74.pdf
+
 **Dag 2:** 3.1.2, 3.1.10, 3.1.30, 3.1.31d, 3.1.33.
 
 ## Programmering
