@@ -1,6 +1,9 @@
 # AS
 Sommerkurs Amalie Skram VGS, Matematikk 1T
 
+# Timeplan
+![](timeplan.png)
+
 # Oppgaver
 ## Tall og algebra
 Oppgaver finnes her: https://api.ndla.no/files/resources/AnMqmSMceaC9tU6T.pdf
