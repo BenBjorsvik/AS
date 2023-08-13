@@ -22,4 +22,6 @@ Oppgaver finnes her: https://api.ndla.no/files/resources/gdxqOX6JrLyMtl74.pdf
 
 ## Programmering
 
+En nyttig lærebok i Python: https://automatetheboringstuff.com/#toc
+
 [Emneevaluering, lag skjema]: #
