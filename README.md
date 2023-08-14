@@ -26,4 +26,6 @@ En nyttig lærebok i Python: https://automatetheboringstuff.com/#toc
 
 Gjør oppgaver til kap. 1, finnes på bunnen av siden.
 
+Gjør oppgaver til kap. 2 1-6 og 8-14.
+
 [Emneevaluering, lag skjema]: #
