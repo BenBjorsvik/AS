@@ -24,4 +24,6 @@ Oppgaver finnes her: https://api.ndla.no/files/resources/gdxqOX6JrLyMtl74.pdf
 
 En nyttig lærebok i Python: https://automatetheboringstuff.com/#toc
 
+Gjør oppgaver til kap. 1, finnes på bunnen av siden.
+
 [Emneevaluering, lag skjema]: #
